@@ -1,12 +1,9 @@
-# Hora-do-Dia
 
 
-# Calculadora-simples
-
-**Título do Projeto: Calculadora simples**
+**Título do Projeto: Hora-do-Dia**
 
 **Introdução:**
-Olá, meu nome é Apolonio Guilherme Lima da Silva e hoje vou apresentar meu projeto web. O meu primeiroEste projeto foi desenvolvido para exbir a Hora do dia
+Olá, meu nome é Apolonio Guilherme Lima da Silva e hoje vou apresentar meu projeto web. O meu primeiro Este projeto foi desenvolvido para exbir a Hora do dia
 
 **Objetivo do Projeto:**
 Informar a hora.
